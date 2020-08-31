@@ -1,9 +1,15 @@
 import React from 'react';
 import './App.css';
+import Game from './components/Game'
+import Board from './components/Board'
+import Square from './components/Square'
 
 function App() {
   return (
-    <div>Test </div>
+    <div>
+      <Game/>
+
+    </div>
   );
 }
 
