@@ -6,7 +6,6 @@ const style = {
     fontWeight: '800',
     border: '2px solid darkblue',
     cursor: 'pointer',
-    top: '10px'
 }
 
 const Square = ({value, onClick}) => (   
